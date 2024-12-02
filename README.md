@@ -1,6 +1,8 @@
 # DADA2 tutorial
 DADA2 analysis of pumice rock samples. This tutorial is designed for evaluating the relative abundance of phyla and orders in pumice rock samples using DADA2, Phyloseq, and ggplot. The first half of the tutorial occurs within dada2 and the second half uses phyloseq to further analyze.
 
+Discalimer: This script is a modified version of the original DADA2 script from [https://benjjneb.github.io/dada2/tutorial.html]
+
 ### Usage 
 - to manipulate and analyze raw sequencing data from 16S amplicon sequencing datafiles
 - produce tables and plots about the sequenced samples to understand the sequencing results better 
