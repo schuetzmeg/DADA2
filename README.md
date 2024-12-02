@@ -38,4 +38,4 @@ library(tidyverse)
 
 
 # Contact
-Please Contact Megan Schuetz with any questions or concerns at schuetzmeg6601@gmail.com
+Please contact Megan Schuetz with any questions or concerns at schuetzmeg6601@gmail.com
